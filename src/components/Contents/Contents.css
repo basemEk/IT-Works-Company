@@ -18,7 +18,7 @@
   width: 85%;
   margin: 12%;
   margin-top: 12%;
-  margin-left: 5%;
+  margin-left: 6%;
   gap: 10%;
 }
 
@@ -40,5 +40,9 @@
 .security {
  display: grid;
  grid-template-columns: auto auto;
- margin: 6%;
+ margin: 3%;
+}
+
+#out-of-the-box-only {
+ gap: 10%;
 }

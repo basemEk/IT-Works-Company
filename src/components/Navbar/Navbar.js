@@ -13,7 +13,6 @@ function NavbarLanding() {
     <Nav className="mr-auto">
       <Nav.Link href="#home">Home</Nav.Link>
       <Nav.Link href="#features">About</Nav.Link>
-      <Nav.Link href="#pricing">Pricing</Nav.Link>
       <Nav.Link href="#services">Services</Nav.Link>
       <Nav.Link href="#">Contact Us</Nav.Link>
     </Nav>
